@@ -1,0 +1,68 @@
+﻿/* Index.html Only */
+h1 {
+    color: lightblue;
+    text-align: center;
+    font-size: 38px;
+}
+h2 {
+    text-align: center;
+    color: lightblue;
+    font-size: 32px
+}
+p {
+    color: teal;
+    font: verdana;
+    font-size: 22px;
+}
+.video-container {
+    width: 70vw;
+    max-width: 560px;
+    margin: auto;
+}
+/* About.html Only */
+
+h3 {
+    color: darkolivegreen;
+    font: arial;
+    font-size: 37px;
+    text-align: center;
+}
+p1 {
+    color: darkolivegreen;
+    text-align: center;
+    font: comic sans;
+    font-size: 20px;
+}
+p2 {
+    color: darkolivegreen;
+    text-align: center;
+    font: comic sans;
+    font-size: 20px;
+}
+p3 {
+    color: darkolivegreen;
+    text-align: center;
+    font: comic sans;
+    font-size: 20px;
+}
+
+
+/*Learning.html ONLY*/
+
+h4 {color: whitesmoke;
+    font-size: 21px;
+    text-align: center;
+
+}
+p4 {
+    color: whitesmoke;
+    text-align: center;
+    font: verdana;
+    font-size: 19px;
+}
+p5 {
+    color: whitesmoke;
+    text-align: center;
+    font: verdana;
+    font-size: 19px;
+}
